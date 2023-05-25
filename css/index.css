@@ -161,7 +161,11 @@
   .con_box .left {
     width: 100%;
   }
-
+  .count_box {
+    height: auto;
+    position: revert;
+    padding: 15px;
+  }
   .count_box {
     width: 80%;
   }
@@ -180,9 +184,5 @@
     padding: 5vh 0;
   }
 
-  .count_box {
-    height: auto;
-    position: revert;
-    padding: 15px;
-  }
+  
 }
